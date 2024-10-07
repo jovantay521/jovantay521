@@ -1,26 +1,22 @@
 # Hi there 👋
 
-Welcome to my GitHub profile! I’m [Your Name], a [Your Role/Field] passionate about [Your Interests or Areas of Focus]. This profile contains repositories that showcase my work, learning, and contributions to various projects. Have a look around!
+Welcome to my GitHub profile! I’m Jovan, a student at Nanyang Technological University passionate about cybersecurity. This profile contains repositories that showcase my work, learning, and contributions to various projects. Have a look around!
 
 ## 🔧 **Skills & Tools**
 Here are some technologies and tools I frequently work with:
 
-- **Languages:** [Languages, e.g. JavaScript, Python, Go, etc.]
-- **Frameworks:** [Frameworks, e.g. React, Flask, Django, etc.]
-- **Tools:** [Tools, e.g. Docker, Git, etc.]
-- **Databases:** [e.g. MySQL, MongoDB, PostgreSQL]
+- **Languages:** Python, C, Java, JavaScript
+- **Frameworks:** React, Next.js, Flask, Django
+- **Tools:** Docker, Git
+- **Databases:** MSSQL
 - **Version Control:** Git, GitHub
 
 ## 🚀 **Projects**
 ### Featured Projects
 
-1. **[Project Name](link-to-repository)**
-   - _Description:_ A brief description of the project. [Mention tech stack or purpose]
-   - _Tech Stack:_ [Languages/Technologies used]
-
-2. **[Another Project Name](link-to-repository)**
-   - _Description:_ Another brief description. Explain key features or why it stands out.
-   - _Tech Stack:_ [Languages/Technologies used]
+1. **[llamachain](link-to-repository)**
+   - _Description:_ 🦙🔗 RAG application using langchain and llama3
+   - _Tech Stack:_ Python, Jupyter Notebook, Langchain, Llama3
 
 Check out the rest of my projects in the [repositories section](https://github.com/jovantay521?tab=repositories).
 
@@ -30,13 +26,12 @@ Check out the rest of my projects in the [repositories section](https://github.c
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jovantay521&layout=compact)](https://github.com/your-username?tab=repositories)
 
 ## 🌱 **Currently Learning**
-- [What you're currently learning or working on]
-- Exploring [new tool/technology] to enhance my [specific skillset].
+- Offensive Security Certified Pentester (OSCP)
+- Exploring React and Next.js to develop a web honeypot.
 
 ## 📝 **Contact Me**
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-linkedin)
-- Email: [your.email@example.com](mailto:your.email@example.com)
-- Portfolio: [Your Portfolio](https://your-portfolio.com)
+- LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/jovan-tay-774399232/)
+- Email: [jovantay52@gmail.com](mailto:jovantay521@gmail.com)
 
 Feel free to reach out for collaboration or any exciting project ideas!
 
